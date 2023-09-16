@@ -1,0 +1,21 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\n\nThe OpenAI mission is to create safe and beneficial artificial intelligence.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679153944,
+  "id": "chatcmpl-6vSw4T8yMS1wZzGE6P6ExN9ZYMRui",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 14,
+    "prompt_tokens": 20,
+    "total_tokens": 34
+  }
+}
